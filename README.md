@@ -1,2 +1,1 @@
-# hw2-2023
-Erika Arias
+# 539w2023_hw2_simple_css
