@@ -25,13 +25,16 @@ img {
     margin-right: auto;
     border: 10px dashed #ffffff;
 }
-
+div {
+    min-height: 125px;
+    padding: 20px;
+    border: 3px solid #ffffff;
+}
 .introduction {
     background-color: #ff0000;
     margin-top: 15px;
     line-height: 2;
 }
-
 .red {
     border-radius: 15px;
     text-align: right;
